@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    private func testA() {
+        print("我是新方法")
+    }
 }
 
