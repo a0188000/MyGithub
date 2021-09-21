@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     private func testA() {
-        
+        print("我是新方法")
     }
 }
 
